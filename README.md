@@ -94,7 +94,7 @@ cd ecommerce_app
 ---
 
 ## Agradecimientos
-Agradecemos a [Fake Store API](https://fakestoreapi.com) por proporcionar los datos utilizados en esta aplicación.
+Agradecimientos a [Fake Store API](https://fakestoreapi.com) por proporcionar los datos utilizados en esta aplicación.
 
 
 
