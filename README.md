@@ -17,25 +17,28 @@ Una aplicación de ecommerce construida en Flutter usando Clean Architecture y R
 
 ### 📁 Categorías
 
-| Normal | Modo Express |
-|--------|---------------|
-| ![](screenshots/category_page.png) | ![](screenshots/category_page_express.png) |
+<div style="display: flex; gap: 10px;">
+   <img src="screenshots/category_page.png" alt="Category Page" width="200"/>
+   <img src="screenshots/category_page_express.png" alt="Category Page Express" width="200"/>
+</div>
 
 ---
 
 ### 🛍️ Productos
 
-| Normal | Modo Express |
-|--------|---------------|
-| ![](screenshots/product_list.png) | ![](screenshots/product_list_express.png) |
+<div style="display: flex; gap: 10px;">
+   <img src="screenshots/product_list.png" alt="Product List" width="200"/>
+   <img src="screenshots/product_list_express.png" alt="Product List Express" width="200"/>
+</div>
 
 ---
 
 ### 🛒 Carrito
 
-| Normal | Modo Express |
-|--------|---------------|
-| ![](screenshots/shopping_cart.png) | ![](screenshots/shopping_cart_express.png) |
+<div style="display: flex; gap: 10px;">
+   <img src="screenshots/shopping_cart.png" alt="Shopping Cart" width="200"/>
+   <img src="screenshots/shopping_cart_express.png" alt="Shopping Cart Express" width="200"/>
+</div>
 
 ---
 
