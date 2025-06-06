@@ -1,4 +1,4 @@
-# ecommerce_app
+# e-commerce_app
 
 Una aplicación de ecommerce construida en Flutter usando Clean Architecture y Riverpod 2.x. Permite explorar productos, agregar al carrito, y realizar compras normales o en modo express.
 
